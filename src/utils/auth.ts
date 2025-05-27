@@ -4,7 +4,7 @@ import { User } from '../types';
 const initialUsers: User[] = [
   {
     id: '1',
-    username: 'admin',
+    username: 'plankton',
     password: 'plankdev0406',
     isAdmin: true
   }
