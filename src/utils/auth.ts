@@ -5,7 +5,7 @@ const initialUsers: User[] = [
   {
     id: '1',
     username: 'admin',
-    password: 'admin123',
+    password: 'plankdev0406',
     isAdmin: true
   }
 ];
